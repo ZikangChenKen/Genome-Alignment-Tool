@@ -1,7 +1,3 @@
-# BJYZ (Team 6)
-
----
-
 ## Description
 
 ### What is Read Mapping
