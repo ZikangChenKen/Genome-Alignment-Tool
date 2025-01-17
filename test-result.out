@@ -1,0 +1,14 @@
+Number of workers: 48
+TP: 259851
+FP: 7322
+FN: 0
+TN: 66132
+Correctness: 97.80%
+Precision: 0.97
+Recall: 1.00
+F1 Score: 0.99
+Preprocessing Time: 3.984496831893921
+Test Time: 35.03563952445984
+Total Time: 39.02013635635376
+Memory Used: 263.62 MB
+Reads Per minute: 512512.3043488191

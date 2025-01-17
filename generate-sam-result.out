@@ -1,0 +1,9 @@
+
+Start processing /projects/comp416/BJYZ/src/../data/short_reads_reference_genome.fasta and /projects/comp416/BJYZ/src/../data/challenging_dataset_1.fastq with 48 threads...
+
+Result written to output.sam
+
+Total Time: 746.2959411144257 s
+
+Reads Per Minute: 80.39706059556407
+
